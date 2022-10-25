@@ -42,7 +42,7 @@ sudo apt install nmap -y
 ## Usage:
 ***Step1***: Download the bash script
 ```bash
-sudo wget https://raw.githubusercontent.com/Danilooo99/Port_Scan_Utility/master/script/ports_scan.sh
+sudo wget https://raw.githubusercontent.com/Danilooo99/Port_Scan_Utility/master/script/ports_scan.sh 
 ```
 
 ***Step 2***: Assignment of execution permissions of the script
